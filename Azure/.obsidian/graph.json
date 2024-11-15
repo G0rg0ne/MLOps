@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:Azure AI",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 1.88645833333333,
+  "collapse-forces": false,
+  "centerStrength": 0.8125,
+  "repelStrength": 16.4583333333333,
+  "linkStrength": 1,
+  "linkDistance": 383,
+  "scale": 1.0000000000000036,
+  "close": true
+}

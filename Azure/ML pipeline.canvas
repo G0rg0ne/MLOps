@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c95d402de0f5ad27","type":"text","text":"### Data labeling:\nFor supervised learning you need to label your data so the ML model can learn by example","x":-460,"y":-60,"width":240,"height":180},
+		{"id":"87fafb0abb23a316","type":"text","text":"### Feature Engineering\nML models only work with numerical data. So you need to translate it into a format that it can understand, extract out the important data that the ML needs to focus on.","x":-140,"y":-60,"width":320,"height":260},
+		{"id":"aae6eaa2c6699a22","type":"text","text":"### Hyperparameter Tunning\nAn ML model can have different parameters , we can use ML to try out many different parameters to optimize the outcome","x":680,"y":55,"width":360,"height":205},
+		{"id":"9f0a1b7a1edb746b","type":"text","text":"### Training\nYour model needs to learn how to become smarter. it will perform multiple iteration getting smarter with each one.","x":280,"y":15,"width":320,"height":210},
+		{"id":"2da5d61997f38d22","type":"text","text":"### Serve:\nHost our ML model in virtual machine or container (Azure ML)","x":1160,"y":158,"width":320,"height":203},
+		{"id":"ea6c444a94486c55","x":1605,"y":301,"width":250,"height":60,"type":"text","text":"### Batch processing"},
+		{"id":"86695f673488ea01","type":"text","text":"### Realtime endpoint","x":1605,"y":158,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f26bb632f811b91f","fromNode":"c95d402de0f5ad27","fromSide":"right","toNode":"87fafb0abb23a316","toSide":"left"},
+		{"id":"9bb0b4781b64564d","fromNode":"9f0a1b7a1edb746b","fromSide":"right","toNode":"aae6eaa2c6699a22","toSide":"left"},
+		{"id":"33dbcfd1a7cf1c9e","fromNode":"87fafb0abb23a316","fromSide":"right","toNode":"9f0a1b7a1edb746b","toSide":"left"},
+		{"id":"526744e23f05e3af","fromNode":"aae6eaa2c6699a22","fromSide":"right","toNode":"2da5d61997f38d22","toSide":"left"},
+		{"id":"43a780ce7fadd5d1","fromNode":"2da5d61997f38d22","fromSide":"right","toNode":"86695f673488ea01","toSide":"left"},
+		{"id":"f36f2ce7ed17590d","fromNode":"2da5d61997f38d22","fromSide":"right","toNode":"ea6c444a94486c55","toSide":"left"}
+	]
+}

@@ -1,0 +1,363 @@
+{
+  "main": {
+    "id": "b80c9e09d188c42e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d4020b786acdbd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "633927da09b62fc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure AI Fundamentals Certification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure AI Fundamentals Certification"
+            }
+          },
+          {
+            "id": "6eb1b608a3c3b758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure AI Fundamentals Certification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure AI Fundamentals Certification"
+            }
+          },
+          {
+            "id": "8494218885056414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure AI Fundamentals Certification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure AI Fundamentals Certification"
+            }
+          },
+          {
+            "id": "17e88b83789085d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure AI Fundamentals Certification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure AI Fundamentals Certification"
+            }
+          },
+          {
+            "id": "9826b14e57a4d64f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure AI Fundamentals Certification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure AI Fundamentals Certification"
+            }
+          },
+          {
+            "id": "3736be63cc880727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure AI Fundamentals Certification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure AI Fundamentals Certification"
+            }
+          },
+          {
+            "id": "61b5ad6dbd1df873",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure AI Fundamentals Certification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure AI Fundamentals Certification"
+            }
+          },
+          {
+            "id": "c43fd79b3a435ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure AI Fundamentals Certification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure AI Fundamentals Certification"
+            }
+          },
+          {
+            "id": "b0be802280546e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure AI Fundamentals Certification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure AI Fundamentals Certification"
+            }
+          },
+          {
+            "id": "1669f458eece51d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure AI Fundamentals Certification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure AI Fundamentals Certification"
+            }
+          },
+          {
+            "id": "1f36495bab496433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure machine learning service.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure machine learning service"
+            }
+          }
+        ],
+        "currentTab": 10
+      },
+      {
+        "id": "79f1bc5f427a6bb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d35b9122a5cee164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure AI Fundamentals Certification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure AI Fundamentals Certification"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b24f2f7a1113c096",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1e860b9441a1b50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df6ead36a11b8d28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fda0facf85b851e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "16b4919cc9cb42ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ed96c541ad39e88",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f069b7181036b85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fa6ac9c1dcac929",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Azure machine learning service.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Azure machine learning service"
+            }
+          }
+        ]
+      },
+      {
+        "id": "812628f907086452",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5d59ddc96676b06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Azure machine learning service.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Azure machine learning service"
+            }
+          },
+          {
+            "id": "c24fd09060b65e55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Azure machine learning service.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Azure machine learning service"
+            }
+          },
+          {
+            "id": "06629d102b15fc08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1f36495bab496433",
+  "lastOpenFiles": [
+    "Conversational AI.md",
+    "Computer vision.md",
+    "Datasets.md",
+    "Forecasting vs Prediction.md",
+    "Text Analytics.md",
+    "Azure AI Fundamentals Certification.md",
+    "Azure machine learning service.md",
+    "ML pipeline.canvas",
+    "Responsible AI.md",
+    "Regression & Classification & Clustering & Anomaly detection.md",
+    "Natural language processing - NLP.md",
+    "Neural Networks and Deep learning.md",
+    "Pasted image 20240808164052.png",
+    "Metrics.md",
+    "Knowledge mining.md",
+    "Key elements of AI.md",
+    "Pasted image 20240823154736.png",
+    "Pasted image 20240816173510.png",
+    "Supervised vs Unsupervised learning vs Reinforcement learning.md",
+    "Anomaly detection.md",
+    "The Layers of Machine learning.md",
+    "What is GPUs.md",
+    "Pasted image 20240808153214 1.png",
+    "Pasted image 20240808153214.png",
+    "Pasted image 20240808153221.png",
+    "Pasted image 20240808153216.png",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

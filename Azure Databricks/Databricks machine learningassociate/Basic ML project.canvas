@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"687b07080a41e712","type":"text","text":"Data preparation","x":-125,"y":-30,"width":265,"height":250},
+		{"id":"9f5cd10eb44dc4bd","type":"text","text":"Delta tables","x":-91,"y":120,"width":197,"height":50},
+		{"id":"dadd96546e03da09","type":"text","text":"Data sources","x":-91,"y":45,"width":197,"height":50},
+		{"id":"01f4fb3f5e1797d0","type":"text","text":"","x":-125,"y":300,"width":265,"height":95},
+		{"id":"3e98e07d77244e93","type":"text","text":"Feature store","x":-91,"y":323,"width":197,"height":50},
+		{"id":"af26faf44720148b","type":"text","text":"Model training","x":240,"y":70,"width":250,"height":325},
+		{"id":"d1dbec509dcedaa1","type":"text","text":"AutoML","x":267,"y":145,"width":197,"height":50},
+		{"id":"5faa4d194f5bfe1c","type":"text","text":"Experiments","x":267,"y":300,"width":197,"height":50},
+		{"id":"0fb51de71153e12b","type":"text","text":"Notebooks","x":267,"y":220,"width":197,"height":50},
+		{"id":"ac054d4065cced03","type":"text","text":"Models","x":560,"y":203,"width":160,"height":60},
+		{"id":"75d6dc947f18effb","type":"text","text":"Production","x":860,"y":83,"width":340,"height":300},
+		{"id":"c13d2f7f85b851de","x":905,"y":165,"width":250,"height":60,"type":"text","text":"Batch/streaming inference"},
+		{"id":"43fabf078802590b","x":905,"y":270,"width":250,"height":60,"type":"text","text":"Online serving endpoint"}
+	],
+	"edges":[
+		{"id":"282ab56c3753a477","fromNode":"687b07080a41e712","fromSide":"bottom","toNode":"01f4fb3f5e1797d0","toSide":"top"},
+		{"id":"a791cdaa3fe7b57c","fromNode":"01f4fb3f5e1797d0","fromSide":"right","toNode":"af26faf44720148b","toSide":"left"},
+		{"id":"1a68a1090d76df45","fromNode":"687b07080a41e712","fromSide":"right","toNode":"af26faf44720148b","toSide":"left"},
+		{"id":"009d5a97d884e048","fromNode":"af26faf44720148b","fromSide":"right","toNode":"ac054d4065cced03","toSide":"left"},
+		{"id":"7bfc819b598516c9","fromNode":"ac054d4065cced03","fromSide":"right","toNode":"75d6dc947f18effb","toSide":"left"}
+	]
+}
